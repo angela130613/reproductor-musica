@@ -23,3 +23,8 @@ body{
     align-items: center;
     padding: 1rem;
 }
+
+.container-player > h1 {
+    font-size: 2rem;
+    color: #ffc0c0;
+}

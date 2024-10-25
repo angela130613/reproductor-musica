@@ -53,3 +53,9 @@ body{
     justify-content: space-around;
     color: #500000;
 }
+
+.controls > audio {
+    width: 100%;
+    height: 2rem;
+    margin-top: 1rem;
+}

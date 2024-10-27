@@ -35,4 +35,11 @@ const playList = [
         img:'images/BOY WITH LUV.jpeg',
         song:'audio/BTS (방탄소년단) _작은 것들을 위한 시 (Boy With Luv) (feat. Halsey)_ Official MV(MP3_128K)_1.mp3'
     },
+    {
+        title:'CHICKEN NOODLE SOUP' ,
+        artist:'J_HOPE and BECKY G',
+        img:'images/CHICKEN NOODLE SOUP.jpeg',
+        song:'audio/j-hope _Chicken Noodle Soup (feat. Becky G)_ MV(MP3_128K)_1.mp3'
+    },
+
 ]

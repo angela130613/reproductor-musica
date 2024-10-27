@@ -21,13 +21,18 @@ const playList = [
         title:'BLACK SWAN',
         artist:'BTS',
         img:'images/BLACK SWAN.jpeg',
-        song:''
+        song:'audio/BTS (방탄소년단) _Black Swan_ Official MV(MP3_128K)_1.mp3'
     },
     {
         title:'BOMBAYAH',
         artist:'BLACKPNIK',
         img:'images/BOOBMAYAH.jpeg',
-        song:''
+        song:'audio/BLACKPINK - _붐바야_(BOOMBAYAH) M_V(MP3_128K).mp3'
     },
-   
+    {
+        title:'BOY WITH LUV' ,
+        artist:'BTS',
+        img:'images/BOY WITH LUV.jpeg',
+        song:'audio/BTS (방탄소년단) _작은 것들을 위한 시 (Boy With Luv) (feat. Halsey)_ Official MV(MP3_128K)_1.mp3'
+    },
 ]

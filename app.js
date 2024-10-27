@@ -180,8 +180,8 @@ const playList = [
     {
         title:'TOPLINE' ,
         artist:'STARY KIDS',
-        img:'',
-        song:''
+        img:'images/TOPLINE.jpg',
+        song:'audio/Stray Kids _TOPLINE (Feat. Tiger JK)_ Video(MP3_160K).mp3'
     },
     {
         title:'VENOM' ,

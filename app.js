@@ -23,5 +23,11 @@ const playList = [
         img:'images/BLACK SWAN.jpeg',
         song:''
     },
+    {
+        title:'BOMBAYAH',
+        artist:'BLACKPNIK',
+        img:'images/BOOBMAYAH.jpeg',
+        song:''
+    },
    
 ]

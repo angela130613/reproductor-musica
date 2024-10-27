@@ -110,14 +110,14 @@ const playList = [
     {
         title:'LALALALA' ,
         artist:'STRAY KIDS',
-        img:'',
-        song:''
+        img:'images/LALALALA.jpeg',
+        song:'audio/Stray Kids _락 (樂) (LALALALA)_ M_V(MP3_160K).mp3'
     },
     {
         title:'MANIAC' ,
         artist:'STRAY KIDS',
-        img:'images/LALALALA.jpeg',
-        song:'audio/Stray Kids _락 (樂) (LALALALA)_ M_V(MP3_160K).mp3'
+        img:'images/MANIAC.webp',
+        song:'audio/Stray Kids _MANIAC_ Lyrics (Color Coded Lyrics)(MP3_128K).mp3'
     },
     {
         title:'MIC DROP' ,
@@ -158,8 +158,8 @@ const playList = [
     {
         title:'RUN' ,
         artist:'BTS',
-        img:'',
-        song:''
+        img:'images/RUN.jpg',
+        song:'audio/달려라 방탄(MP3_128K).mp3'
     }, {
         title:'S-CLASS' ,
         artist:'STRAY KIDS',

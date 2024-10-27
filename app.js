@@ -168,8 +168,8 @@ const playList = [
     }, {
         title:'SEVEN' ,
         artist:'JUNGKOOK',
-        img:'audio/Jungkook - Seven (Feat. Latto) (Explicit Ver.) (Traducida al Español)(MP3_160K).mp3',
-        song:'images/SEVEN.jpg'
+        img:'images/SEVEN.jpg',
+        song:'audio/Jungkook - Seven (Feat. Latto) (Explicit Ver.) (Traducida al Español)(MP3_160K).mp3'
     },
     {
         title:'THAT THAT' ,

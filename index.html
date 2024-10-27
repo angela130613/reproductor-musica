@@ -5,29 +5,33 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
     <link rel="stylesheet" href="styles.css">
+    <link rel="icon" href="Img/logo.png">
     <title>Reproductor</title>
 </head>
 <body>
     <div class="container-player">
-        <h1>Play Music</h1> 
+        <h1>Play Music</h1>        
         <div class="container-album">
-        <img src="images/dos coringas.jpeg" alt="album" class="player_img">
-        <h2 class="player_artist"> Dos Coringas </h2>
-        <h3 class="player_song"> 7 Minutoz </h3>
-    </div>
-    <div class="controls">
-        <audio class="player_audio" controls id="audio">
-            <source src="audio/7 Minutoz ╱╱ Rap Dos Coringas_ Circo Dos Horrores (Nerd Hits) - sub español(MP3_160K).mp3" type="audio/mpeg">
-        </audio>
-        <div class="player_controls">
-            <i 'class= bx bx-rewind' id="rewind"></i>
-            <i 'class= bx bx-play' id="play"></i>
-            <i 'class= bx bx-stop' id="stop"></i>
-            <i 'class= bx bx-pause' id="pause"></i>
-            <i 'class= bx bx-fast-forward' id="rewind"></i>
+            <img src="images/DOS CORINGAS.jpeg" alt="album" class="player__img">
+            <h2 class="player__song">Dream On</h3>
+            <h3 class="player__artist">Aerosmith</h2>
+            
+        </div>    
+        <div class="controls">
+            <audio class="player__audio" controls id="audio">
+                <source src="audio/7 Minutoz ╱╱ Rap Dos Coringas_ Circo Dos Horrores (Nerd Hits) - sub español(MP3_160K).mp3" type="audio/mpeg">
+            </audio>
+                <div class="player_controls">
+                    <i class='bx bx-skip-previous' id="previous"></i>  
+                    <i class='bx bx-rewind' id="rewind"></i>        
+                    <i class='bx bx-play' id="play"></i>
+                    <i class='bx bx-stop' id="stop"></i> 
+                    <i class='bx bx-pause' id="pause"></i>
+                    <i class='bx bx-fast-forward' id="forward"></i>
+                    <i class='bx bx-skip-next' id="next"></i>   
+                </div>
         </div>
     </div>
-</div> 
-<script src="app.js"></script>
+    <script src="app.js"></script>                    
 </body>
 </html>

@@ -17,5 +17,11 @@ const playList = [
         img:'images/ANPANMAN.jpeg',
         song:'audio/BTS (방탄소년단) _ANPANMAN_ MV(MP3_128K)_1.mp3'
     },
+    {
+        title:'BLACK SWAN',
+        artist:'BTS',
+        img:'images/BLACK SWAN.jpeg',
+        song:''
+    },
    
 ]

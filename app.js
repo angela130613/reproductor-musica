@@ -134,8 +134,8 @@ const playList = [
     {
         title:'NOT TODAY' ,
         artist:'BTS',
-        img:'',
-        song:''
+        img:'images/NOT TODAY.jpeg',
+        song:'audio/BTS (방탄소년단) _Not Today_ Official MV(MP3_128K)_1.mp3'
     },
     {
         title:'ON' ,

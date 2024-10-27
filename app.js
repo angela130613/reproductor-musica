@@ -163,8 +163,8 @@ const playList = [
     }, {
         title:'S-CLASS' ,
         artist:'STRAY KIDS',
-        img:'',
-        song:''
+        img:'images/S-CLASS.png',
+        song:'audio/Stray Kids (스트레이키즈) _특 S-Class_ Official Audio(MP3_160K).mp3'
     }, {
         title:'SEVEN' ,
         artist:'JUNGKOOK',

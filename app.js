@@ -104,8 +104,8 @@ const playList = [
     {
         title:'KILL THIS LOVE' ,
         artist:'BLACK PINK',
-        img:'',
-        song:''
+        img:'images/KILL THIS LOVE.jpeg',
+        song:'audio/BLACKPINK - _Kill This Love_ M_V(MP3_128K)_1.mp3'
     },
     {
         title:'LALALALA' ,

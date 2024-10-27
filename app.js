@@ -140,8 +140,8 @@ const playList = [
     {
         title:'ON' ,
         artist:'BTS',
-        img:'',
-        song:''
+        img:'images/ON.jpeg',
+        song:'audio/BTS (방탄소년단) _ON_ Kinetic Manifesto Film _ Come Prima(MP3_128K)_1.mp3'
     },
     {
         title:'PERMISSION TO DANCE' ,

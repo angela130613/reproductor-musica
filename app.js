@@ -122,8 +122,8 @@ const playList = [
     {
         title:'MIC DROP' ,
         artist:'BTS',
-        img:'',
-        song:''
+        img:'images/MIC DROP.jpeg',
+        song:'audio/BTS (방탄소년단) _MIC Drop (Steve Aoki Remix)_ Official MV(MP3_128K)_1.mp3'
     },
     {
         title:'NO MORE DREAM' ,

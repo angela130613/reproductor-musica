@@ -173,9 +173,9 @@ const playList = [
     },
     {
         title:'THAT THAT' ,
-        artist:'SPY and SUGA',
-        img:'',
-        song:''
+        artist:'PSY and SUGA',
+        img:'images/THAT THAT.webp',
+        song:'audio/PSY Ft. Suga of BTS - That That __ Sub. Español(MP3_128K).mp3'
     },
     {
         title:'TOPLINE' ,

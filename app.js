@@ -60,104 +60,132 @@ const playList = [
         song:'audio/Stray Kids - Circus (Traducida al Español)(MP3_128K).mp3'
     },
     {
-        title:'' ,
-        artist:'',
+        title:'DAECHWITA' ,
+        artist:'Agust_D',
+        img:'images/DAECHWITA.jpeg',
+        song:'audio/Agust D _대취타_ MV(MP3_128K)_1.mp3'
+    },
+    {
+        title:'DDU-DU-DDU-DU' ,
+        artist:'BLACK PINK',
         img:'',
         song:''
     },
     {
-        title:'' ,
-        artist:'',
+        title:'DYNAMITE' ,
+        artist:'BTS',
         img:'',
         song:''
     },
     {
-        title:'' ,
-        artist:'',
+        title:'FAKE LOVE' ,
+        artist:'BTS',
         img:'',
         song:''
     },
     {
-        title:'' ,
-        artist:'',
+        title:'FIRE' ,
+        artist:'BTS',
         img:'',
         song:''
     },
     {
-        title:'' ,
-        artist:'',
+        title:'GODS MENU' ,
+        artist:'STRAY KIDS',
         img:'',
         song:''
     },
     {
-        title:'' ,
-        artist:'',
+        title:'3D' ,
+        artist:'JUNGKOOK',
         img:'',
         song:''
     },
     {
-        title:'' ,
-        artist:'',
+        title:'KILL THIS LOVE' ,
+        artist:'BLACK PINK',
         img:'',
         song:''
     },
     {
-        title:'' ,
-        artist:'',
+        title:'LALALALA' ,
+        artist:'STRAY KIDS',
         img:'',
         song:''
     },
     {
-        title:'' ,
-        artist:'',
+        title:'MANIAC' ,
+        artist:'STRAY KIDS',
         img:'',
         song:''
     },
     {
-        title:'' ,
-        artist:'',
+        title:'MIC DROP' ,
+        artist:'BTS',
         img:'',
         song:''
     },
     {
-        title:'' ,
-        artist:'',
+        title:'NO MORE DREAM' ,
+        artist:'BTS',
         img:'',
         song:''
     },
     {
-        title:'' ,
-        artist:'',
+        title:'NOT TODAY' ,
+        artist:'BTS',
         img:'',
         song:''
     },
     {
-        title:'' ,
-        artist:'',
+        title:'ON' ,
+        artist:'BTS',
         img:'',
         song:''
     },
     {
-        title:'' ,
-        artist:'',
+        title:'PERMISSION TO DANCE' ,
+        artist:'BTS',
         img:'',
         song:''
     },
     {
-        title:'' ,
-        artist:'',
+        title:'PINK VENOM' ,
+        artist:'BLACK PINK',
         img:'',
         song:''
     },
     {
-        title:'' ,
-        artist:'',
+        title:'RUN' ,
+        artist:'BTS',
+        img:'',
+        song:''
+    }, {
+        title:'S-CLASS' ,
+        artist:'STRAY KIDS',
+        img:'',
+        song:''
+    }, {
+        title:'SEVEN' ,
+        artist:'JUNGKOOK',
         img:'',
         song:''
     },
     {
-        title:'' ,
-        artist:'',
+        title:'THAT THAT' ,
+        artist:'SPY and SUGA',
+        img:'',
+        song:''
+    },
+    {
+        title:'TOPLINE' ,
+        artist:'STARY KIDS',
+        img:'',
+        song:''
+    },
+    {
+        title:'VENOM' ,
+        artist:'STARY KIDS',
         img:'',
         song:''
     },

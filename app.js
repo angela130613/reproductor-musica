@@ -80,8 +80,8 @@ const playList = [
     {
         title:'FAKE LOVE' ,
         artist:'BTS',
-        img:'',
-        song:''
+        img:'images/FAKE LOVE.jpeg',
+        song:'audio/BTS (방탄소년단) _FAKE LOVE_ Official MV(MP3_128K)_1.mp3'
     },
     {
         title:'FIRE' ,

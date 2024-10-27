@@ -186,7 +186,7 @@ const playList = [
     {
         title:'VENOM' ,
         artist:'STARY KIDS',
-        img:'',
-        song:''
+        img:'images/VENOM.jpg',
+        song:'audio/Stray Kids _거미줄(VENOM)_ Video(MP3_160K).mp3'
     },
 ]

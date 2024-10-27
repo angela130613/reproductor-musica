@@ -194,14 +194,3 @@ const playList = [
 let currentSongIndex = 0;
 
 const audio = document.getElementById('audio');
-const play = document.getElementById('play');
-const pause = document.getElementById('pause');
-const forward = document.getElementById('forward');
-const rewind = document.getElementById('rewind');
-const stop = document.getElementById('stop');
-const next = document.getElementById('next');
-const previous = document.getElementById('previous');
-
-const playerImage = document.querySelector('.player__img');
-const playerArtist = document.querySelector('.player__artist');
-const playerSongTitle = document.querySelector('.player__song');

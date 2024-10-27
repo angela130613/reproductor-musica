@@ -86,8 +86,8 @@ const playList = [
     {
         title:'FIRE' ,
         artist:'BTS',
-        img:'',
-        song:''
+        img:'images/FIRE.jpeg',
+        song:'audio/BTS (방탄소년단) _불타오르네 (FIRE)_ Official MV(MP3_128K)_1.mp3'
     },
     {
         title:'GODS MENU' ,

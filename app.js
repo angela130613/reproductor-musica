@@ -98,8 +98,8 @@ const playList = [
     {
         title:'3D' ,
         artist:'JUNGKOOK',
-        img:'',
-        song:''
+        img:'images/JUNGKOOK 3D.png',
+        song:'audio/3D - Alternate Ver(MP3_160K).mp3'
     },
     {
         title:'KILL THIS LOVE' ,

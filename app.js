@@ -128,7 +128,7 @@ const playList = [
     {
         title:'NO MORE DREAM' ,
         artist:'BTS',
-        img:'',
+        img:'images/NO MORE DREAM.jpeg',
         song:'audio/BTS (방탄소년단) _No More Dream_ Official MV(MP3_128K)_1.mp3'
     },
     {

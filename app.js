@@ -68,8 +68,8 @@ const playList = [
     {
         title:'DDU-DU-DDU-DU' ,
         artist:'BLACK PINK',
-        img:'',
-        song:''
+        img:'images/DDU-DU-DDU-DU.jpeg',
+        song:'audio/BLACKPINK - _뚜두뚜두 (DDU-DU DDU-DU)_ M_V(MP3_160K)_1.mp3'
     },
     {
         title:'DYNAMITE' ,

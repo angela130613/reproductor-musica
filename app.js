@@ -92,8 +92,8 @@ const playList = [
     {
         title:'GODS MENU' ,
         artist:'STRAY KIDS',
-        img:'',
-        song:''
+        img:'images/GODS MENU.jpeg',
+        song:'audio/God_s Menu(MP3_128K).mp3'
     },
     {
         title:'3D' ,

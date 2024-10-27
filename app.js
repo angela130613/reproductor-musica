@@ -146,8 +146,8 @@ const playList = [
     {
         title:'PERMISSION TO DANCE' ,
         artist:'BTS',
-        img:'',
-        song:''
+        img:'images/PERMISSION TO DANCE.jpeg',
+        song:'audio/BTS (방탄소년단) _Permission to Dance_ Official MV(MP3_128K).mp3'
     },
     {
         title:'PINK VENOM' ,

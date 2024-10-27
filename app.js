@@ -152,8 +152,8 @@ const playList = [
     {
         title:'PINK VENOM' ,
         artist:'BLACK PINK',
-        img:'',
-        song:''
+        img:'images/PINK VENOM.jpeg',
+        song:'audio/BLACKPINK - PINK VENOM (Letra Fácil _ Pronunciación Fácil _ Easy Lyrics)(MP3_128K).mp3'
     },
     {
         title:'RUN' ,

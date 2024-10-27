@@ -53,4 +53,112 @@ const playList = [
         img:'images/CHK CHK BOOM.jpeg',
         song:'audio/Stray Kids _Chk Chk Boom_ Performance Video(MP3_160K).mp3'
     },
+    {
+        title:'CIRCUS' ,
+        artist:'STRAY KIDS',
+        img:'images/CIRCUS.jpeg',
+        song:'audio/Stray Kids - Circus (Traducida al Español)(MP3_128K).mp3'
+    },
+    {
+        title:'' ,
+        artist:'',
+        img:'',
+        song:''
+    },
+    {
+        title:'' ,
+        artist:'',
+        img:'',
+        song:''
+    },
+    {
+        title:'' ,
+        artist:'',
+        img:'',
+        song:''
+    },
+    {
+        title:'' ,
+        artist:'',
+        img:'',
+        song:''
+    },
+    {
+        title:'' ,
+        artist:'',
+        img:'',
+        song:''
+    },
+    {
+        title:'' ,
+        artist:'',
+        img:'',
+        song:''
+    },
+    {
+        title:'' ,
+        artist:'',
+        img:'',
+        song:''
+    },
+    {
+        title:'' ,
+        artist:'',
+        img:'',
+        song:''
+    },
+    {
+        title:'' ,
+        artist:'',
+        img:'',
+        song:''
+    },
+    {
+        title:'' ,
+        artist:'',
+        img:'',
+        song:''
+    },
+    {
+        title:'' ,
+        artist:'',
+        img:'',
+        song:''
+    },
+    {
+        title:'' ,
+        artist:'',
+        img:'',
+        song:''
+    },
+    {
+        title:'' ,
+        artist:'',
+        img:'',
+        song:''
+    },
+    {
+        title:'' ,
+        artist:'',
+        img:'',
+        song:''
+    },
+    {
+        title:'' ,
+        artist:'',
+        img:'',
+        song:''
+    },
+    {
+        title:'' ,
+        artist:'',
+        img:'',
+        song:''
+    },
+    {
+        title:'' ,
+        artist:'',
+        img:'',
+        song:''
+    },
 ]

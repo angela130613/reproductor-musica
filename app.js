@@ -116,8 +116,8 @@ const playList = [
     {
         title:'MANIAC' ,
         artist:'STRAY KIDS',
-        img:'',
-        song:''
+        img:'images/LALALALA.jpeg',
+        song:'audio/Stray Kids _락 (樂) (LALALALA)_ M_V(MP3_160K).mp3'
     },
     {
         title:'MIC DROP' ,
